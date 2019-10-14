@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">SLC</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="prompt_SID">Ex. 987654321</string>
+    <string name="SID">SID :</string>
+    <string name="new_account">Create a new account</string>
+    <string name="SLC_symbol">SLC</string>
+    <string name="info_symbol">Info</string>
+    <string name="request_tutor">Info</string>
+
+    <string name="log_out">Log Out</string>
+    <string name="dashboard_symbol">Dashboard</string>
+    <string name="submit_symbol">Submit</string>
+    <string name="Schedule_Friday">SLC closes at 1pm on Friday</string>
+    <string name="Schedule_MTWTh">SLC closes at 6 pm Monday through Thursday</string>
+    <string name="Schedule_Sunday">SLC closes at 5 pm on Sunday</string>
+
+    <string-array name="center_option">
+        <item>Choose Center</item>
+        <item>Writing</item>
+        <item>World Language</item>
+        <item>Accounting and Business</item>
+        <item>Math (Pre College)</item>
+        <item>Math and Science</item>
+        <item>Navigator</item>
+        <item>HS 2642A Bio/Chem</item>
+        <item>Workshops</item>
+    </string-array>
+
+    <string-array name="math_science">
+        <item>Algebra</item>
+        <item>Pre-Algebra</item>
+        <item>Calculus 1 and 2</item>
+        <item>Calculus 3</item>
+        <item>Statistics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Computer Science</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="accounting_business">
+        <item>Economics</item>
+        <item>IT</item>
+        <item>Microsoft Office Suite</item>
+        <item>Business Law</item>
+        <item>Business Statistics</item>
+        <item>Quickbooks</item>
+        <item>ACCT 201, 202, 203</item>
+        <item>Accounting</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="writing">
+        <item>English / ABE 80</item>
+        <item>English - Writing</item>
+        <item>ESL / EIP Grammar and Writing</item>
+        <item>ESL / EIP Speaking and Listening</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="world_languages">
+        <item>French</item>
+        <item>German</item>
+        <item>Spanish</item>
+        <item>Chinese</item>
+        <item>ASL</item>
+        <item>Japanese</item>
+    </string-array>
+
+    <string-array name="language_tutor">
+        <item>Any Tutor</item>
+        // Add tutor if Any
+    </string-array>
+
+    <string-array name="hs_bio_chem">
+        <item>Select</item>
+    </string-array>
+
+    <string-array name="workshops">
+        <item>Talk Time</item>
+        <item>Focus on Vocabulary</item>
+        <item>Pronunciation Practice</item>
+        <item>Talking to the TExt</item>
+        <item>TIme Management with Jenny Mao</item>
+        <item>Choosing a major</item>
+    </string-array>
+
+    <string-array name="workshops_tutor">
+        <item>Select</item>
+        <item>Jenny Mao</item>
+
+    </string-array>
+
+</resources>
